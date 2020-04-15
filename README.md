@@ -15,8 +15,7 @@ The capstone proposal is written in the file name *proposal.pdf* following the r
 The same content is included in the proposal.md file but with not formatted text.
 
 ## Dataset
-The project is intended to use a **Kaggle dataset called News Summary**, [click this link to access it]([https://www.kaggle.com/sunnysai12345/news-summary](https://www.kaggle.com/sunnysai12345/news-summary))
-The datafiles are also included in the data directory in this repository.
+The project is intended to use a **Kaggle dataset called News Summary**, [click this link to access it](https://www.kaggle.com/sunnysai12345/news-summary). The datafiles are also included in the data directory in this repository.
 
 The dataset consists in 4515 examples of news and their summaries and some extra data like Author_name, Headlines, Url of Article, Short text, Complete Article. This data was extracted from Inshorts, scraping the news article from Hindu, Indian times and Guardian.
 An example:
