@@ -21,6 +21,8 @@ An example:
 • **Text**: "Isha Ghosh, an 81-year-old member of Bharat Scouts and Guides (BSG), has been imparting physical and mental training to schoolchildren ..."
 • **Summary**: "81-yr-old woman conducts physical training in J'khand schools"
 
+For a better performance, we should consider using a greater dataset like the CNN dataset that contains more than 93,000 news articles.
+
 ## Solution Statement
 Our goal will be to build a machine learning model to produce a short summary from a source text. We will analyze and apply one or two commonly used methods, compare each other and measure its performance. There are two main approaches to summarization:
 • Extraction-based summarization: identify and extract keyphrases from the source, evaluate its "importance" and make a summary with the most valuable phrases.
